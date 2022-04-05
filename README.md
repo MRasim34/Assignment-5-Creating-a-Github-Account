@@ -22,6 +22,3 @@
 
 ●	The top one thousand records were loaded into a separate csv file labeled ‘youtube1000.csv’.
 ●	An engine was created to make a connection to mysql and write the data to sql.
-
-## References
-#Then finally we showed the references that we used in our project.
